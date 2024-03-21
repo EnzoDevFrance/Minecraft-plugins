@@ -1,0 +1,2 @@
+Quand le joeuur double clique, on multiplie le vecteur de velocité, il faudrait que ce vecteur soit 
+multiplié tant que le cli

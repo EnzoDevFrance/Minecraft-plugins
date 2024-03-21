@@ -1,0 +1,6 @@
+name: GearPlugin
+version: 1.0
+main: fr.bluesty.tridimentionalplugin.GearPlugin
+author: Bluesty
+description: Un plugin Minecraft qui ajoute des jambières inspirées de l'Attaque des Titans.
+api-version: 1.20

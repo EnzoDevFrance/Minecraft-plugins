@@ -1,0 +1,6 @@
+name: ZaapPlugin
+version: 1.0
+main: fr.bluesty.zaapplugin.MontgolfiereTeleportPlugin
+author: Bluesty
+description: Un plugin Minecraft qui ajoute des zaap
+api-version: 1.20
